@@ -1,0 +1,23 @@
+{
+  "name": "nav-object-updown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "dependencies": {
+    "synology": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestasju/nav-object-updown.git"
+  },
+  "author": "Ernestas Juška",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ernestasju/nav-object-updown/issues"
+  },
+  "homepage": "https://github.com/ernestasju/nav-object-updown#readme"
+}
