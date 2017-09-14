@@ -4,7 +4,6 @@
   "description": "",
   "main": "hello.js",
   "dependencies": {
-    "synology": "^0.0.0"
   },
   "devDependencies": {},
   "scripts": {
